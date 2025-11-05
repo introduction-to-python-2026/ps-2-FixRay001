@@ -17,14 +17,14 @@ def find_mean_std(num1, num2, num3):
     return (mean, std)
 
 
-num1, num2, num3 = 3, 8, 4
-funcshin = input("(1)-->find_max_number\n(2)-->find_mean\n(3)-->find_mean_std\n")
+#num1, num2, num3 = 3, 8, 4
+#funcshin = input("(1)-->find_max_number\n(2)-->find_mean\n(3)-->find_mean_std\n")
 
-if funcshin == "1":
-    print(find_max_number(num1, num2, num3))
-elif funcshin == "2":
-    print(find_mean(num1, num2, num3))
-elif funcshin == "3":
-    print(find_mean_std(num1, num2, num3))
-else:
-    print("error")
+#if funcshin == "1":
+#    print(find_max_number(num1, num2, num3))
+#elif funcshin == "2":
+#    print(find_mean(num1, num2, num3))
+#elif funcshin == "3":
+#    print(find_mean_std(num1, num2, num3))
+#else:
+#    print("error")
